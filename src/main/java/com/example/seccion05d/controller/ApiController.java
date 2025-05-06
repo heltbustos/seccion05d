@@ -10,7 +10,7 @@ public class ApiController {
 
     @GetMapping("/saludo")
     public String hola(){
-        return "HOLA";
+        return "HOLA"; 
     }
 
 }
